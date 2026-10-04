@@ -12,19 +12,19 @@ Dataset
 --
 Source: Kaggle
 
-Link: kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020
+Link: [ kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020 ](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020)
 
 Contains IPL match-level and ball-by-ball delivery data covering multiple IPL seasons, including information on teams, players, venues, toss decisions, match results, runs, and wickets
 
 Project Workflow
 --
-1. Download the dataset and analyze the data in SQL
-2. Standardize venue names and format date values
-3. Perform exploratory analysis on matches, teams, players, venues, and scoring
-4. Analyze toss decisions and their relationship with match outcomes
-5. Perform individual player performance analysis
-6. Answer business-style questions using SQL
-7. Identify key insights from the analysis
+- Download the dataset and analyze the data in SQL
+- Standardize venue names and format date values
+- Perform exploratory analysis on matches, teams, players, venues, and scoring
+- Analyze toss decisions and their relationship with match outcomes
+- Perform individual player performance analysis
+- Answer business-style questions using SQL
+- Identify key insights from the analysis
 
 Analysis & Questions
 --
